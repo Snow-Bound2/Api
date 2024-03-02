@@ -20,6 +20,10 @@ class ItemController extends Controller
             'data' => $item
         ], 201);
 
+
+
+        $item2
+
     }
 
     public function show(Item $item)
