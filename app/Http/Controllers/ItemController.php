@@ -22,8 +22,6 @@ class ItemController extends Controller
 
 
 
-        $item2
-
     }
 
     public function show(Item $item)
@@ -48,4 +46,4 @@ class ItemController extends Controller
         ], 204);
     }
 }
-
+welcome
